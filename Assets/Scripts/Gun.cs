@@ -5,6 +5,7 @@ public class Gun : MonoBehaviour {
 
     public GameObject bullet;
     public float speed;
+    
 
 	// Use this for initialization
 	void Start () {
